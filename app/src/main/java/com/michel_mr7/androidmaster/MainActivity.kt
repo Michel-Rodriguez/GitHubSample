@@ -1,5 +1,8 @@
 package com.michel_mr7.androidmaster
 
+
+// Proyecto creado by Mr7
+
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -22,7 +25,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("Android")
+                    Greeting("Android hELOOOOOOOOOOOOOOOOOOOO")
                 }
             }
         }
